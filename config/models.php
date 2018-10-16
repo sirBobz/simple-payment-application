@@ -52,7 +52,7 @@ return [
         |
         */
 
-        'parent' => Reliese\Database\Eloquent\Model::class,
+        'parent' =>  Illuminate\Database\Eloquent\Model::class,
 
         /*
         |--------------------------------------------------------------------------
@@ -83,7 +83,7 @@ return [
         |
         */
 
-        'connection' => false,
+        'connection' => true,
 
         /*
         |--------------------------------------------------------------------------
