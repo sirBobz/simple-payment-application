@@ -1,5 +1,7 @@
 # simple-payment-application
 
+ This a web platform that can enable users to register and send money to each other within the system. They top up their accounts through MPESA* and can now transfer amongst themselves. They use the registered number or email address to transfer.  Once a transfer is done, the recipient receives a notification in the system as well as a confirmation through email. 
+
 
 ### Why Laravel?
 
