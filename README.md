@@ -21,8 +21,8 @@ Laravel is accessible, yet powerful, providing tools needed for large, robust ap
 * php >= 7.1.3
 
 ### Installation ###
-* type `https://github.com/sirBobz/worldbank.org-v2-datacatalog.git datacatalog` to clone the repository 
-* type `cd datacatalog`
+* type `https://github.com/sirBobz/simple-payment-application.git payment` to clone the repository 
+* type `cd payment`
 * type `composer install`
 * type `composer update`
 * copy *.env.example* to *.env*
